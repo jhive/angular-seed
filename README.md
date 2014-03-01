@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://secure.travis-ci.org/angular-app/angular-app.png)](http://travis-ci.org/angular-app/angular-app)
 
 # [AngularJS](http://www.angularjs.org/) CRUD application demo
@@ -187,3 +188,9 @@ You can have grunt (karma) continuously watch for file changes and automatically
 * Run `grunt test-watch`.
 * Open one or more browsers and point them to [http://localhost:8080/__test/].
 * Each time a file changes the tests will be run against each browser.
+=======
+angular-seed
+============
+
+Modular Angular Seed Project
+>>>>>>> 9dbdb0737302b4c6941e126ce294be56a28b08ea
